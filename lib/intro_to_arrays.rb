@@ -1,5 +1,5 @@
-def my_new_array
-initiate_new_array = []
+def initiate_new_array 
+  my_new_array =[]
 []
 end
 
