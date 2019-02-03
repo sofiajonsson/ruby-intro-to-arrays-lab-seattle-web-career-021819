@@ -7,7 +7,7 @@ my_two_array = [1, 2]
 end
 
 def first_element
-  first_element[0]
+  array = my_first_element[0]
 end
 
 def third_element
