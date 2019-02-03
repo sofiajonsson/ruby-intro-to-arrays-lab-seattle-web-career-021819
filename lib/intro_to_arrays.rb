@@ -7,7 +7,7 @@ my_two_array = [1, 2]
 end
 
 def first_element
-  my_first_element[0]
+  my_first_element.first
 end
 
 def third_element
@@ -15,7 +15,7 @@ def third_element
 end
 
 def last_element
-  my_last_element[-1]
+  my_last_element.last
 end
 
 
